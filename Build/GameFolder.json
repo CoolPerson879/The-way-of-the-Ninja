@@ -1,0 +1,16 @@
+{
+"companyName": "RajScape Inc.",
+"productName": "The Way of the Ninja",
+"productVersion": "0.1",
+"dataUrl": "GameFolder.data.unityweb",
+"wasmCodeUrl": "GameFolder.wasm.code.unityweb",
+"wasmFrameworkUrl": "GameFolder.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
